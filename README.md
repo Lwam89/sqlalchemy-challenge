@@ -1,16 +1,22 @@
 # sqlalchemy-challenge
-Set-up & version control
+
+## Set-up & version control
+
 Create a new repository (sqlalchemy-challenge)
 add a folder containing Jupyter Notebook and app.py files
 add a second folder for resource, source files used for analysis
 clone repo to local directory: https://github.com/Lwam89/sqlalchemy-challenge.git
 commit all changes via command line vs. file upload
-Instructions
+
+## Instructions
+
 The focus of the assignment is to analyze climate data in advance of taking a trip to hawaii
 There are 2 main parts to the activity
 part 1: Analyze and Explore the Climate Data in Jupyter Notebook
 part 2: Design a climate app (Flask API) using the queries from the jupyter notebook
-Part 1: Climate Analysis
+
+## Part 1: Climate Analysis
+
 Use Python and SQLAlchemy to do a basic climate analysis and data exploration
 Use SQLAlchemy ORM queries along with Pandas and Matplot to
 connect to SQLLite database, reflect tables into classes and link Python to the database using SQLAlchemy session
@@ -23,7 +29,9 @@ determine the most active station
 design a query to return min, max, and average temperature for the most active station for the last year of data
 plot a histogram with the temperature observations. the histogram should have 12 bins
 Close session.
-Part 2: Design a Climate App
+
+## Part 2: Design a Climate App
+
 design a Flask API based on the queries developed in part 1
 API should have the following routes
 " / " : Homepage which displays all available routes
