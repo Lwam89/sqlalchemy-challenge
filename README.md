@@ -3,7 +3,7 @@ Set-up & version control
 Create a new repository (sqlalchemy-challenge)
 add a folder containing Jupyter Notebook and app.py files
 add a second folder for resource, source files used for analysis
-clone repo to local directory: https://github.com/ericabgraboyes/sqlalchemy-challenge.git
+clone repo to local directory: 
 commit all changes via command line vs. file upload
 Instructions
 The focus of the assignment is to analyze climate data in advance of taking a trip to hawaii
